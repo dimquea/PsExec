@@ -1,0 +1,2 @@
+exec:   # Description of the service
+  description: Exec command on remote PC

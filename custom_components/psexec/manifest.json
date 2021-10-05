@@ -1,0 +1,17 @@
+{
+  "domain": "psexec",
+  "name": "PsExec",
+  "documentation": "https://github.com/dimquea/PsExec",
+  "issue_tracker": "https://github.com/dimquea/PsExec/issues",
+  "dependencies": [],
+  "codeowners": [
+    "AlexxIT",
+    "dimquea"
+  ],
+  "requirements": [
+    "pypsexec"
+  ],
+  "version": "1.0.0",
+  "iot_class": "local_push"
+  
+}
